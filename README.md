@@ -5,6 +5,8 @@ Openframeworks version of Local Entropy Filter for image
 
 ![ example]( https://github.com/bemoregt/gromitLocalEntropyFilter/blob/master/test2.png "example")
 
+![ example]( https://github.com/bemoregt/gromitLocalEntropyFilter/blob/master/skin2.png "example")
+
 ### Algorithm
 - using 2-Dimensional entropy of 9x9 Raster-scaned kernels for Image filtering.
 
