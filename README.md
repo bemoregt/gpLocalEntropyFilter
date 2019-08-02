@@ -1,4 +1,4 @@
-# gromitLocalEntropyFilter
+# gpLocalEntropyFilter
 Openframeworks version of Local Entropy Filter for image
 
 ![ example]( https://github.com/bemoregt/gromitLocalEntropyFilter/blob/master/result.png "example")
