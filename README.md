@@ -16,6 +16,7 @@ Openframeworks version of Local Entropy Filter for image
 ### Next Plan
 - Kernel Size selection using Mouse Move.
 - Local Spectral Entropy Filtering. 
+- Drag & Drop Image file.
 
 ### Reference
 - Openframeworks Porting from original code : https://stackoverflow.com/questions/33962787/entropy-filter-in-opencv-similar-to-entropyfilt-function-in-matlab.
